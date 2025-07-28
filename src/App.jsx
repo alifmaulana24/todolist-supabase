@@ -93,6 +93,7 @@ function App() {
     <h1>haloo ini dari branch fitur-baru</h1>
     <h3>hahahhah commit </h3>
     <h1>ALIF MAULANA COMMIT</h1>
+    <h2>AKUU SEORANG KAPITen</h2>
     </>
   )
 }
