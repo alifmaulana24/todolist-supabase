@@ -89,13 +89,7 @@ function App() {
   
   
   return(
-    <div className=" flex justify-center items-center h-screen">
-      <div className="wrapper bg-secondary w-full max-w-[450px] min-h-1/2 text-white px-8 py-4">
-        <h1 className="text-center font-chewy text-4xl my-4">Get Things Done !</h1>
-        <Form addTodo={addTodo}  />
-        <TodoList todoItem={todoItem} handleDelete={handleDelete} handleToggle={handleToggle} handleUpdate={handleUpdate}/>
-      </div>
-    </div>
+    <h1>haloo ini dari branch fitur-baru</h1>
   )
 }
 
