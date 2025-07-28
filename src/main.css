@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+* {
+    outline: none;
+}
+
+@theme {
+  --color-primary: #845afc;
+  --color-secondary: #1B1A41;
+  --font-chewy : "Chewy", "system-ui";
+  --font-poppins : "Poppins", sans-serif;
+}
